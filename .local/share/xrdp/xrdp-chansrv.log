@@ -1,1 +1,13 @@
 [20201122-00:56:32] [CORE ] main: app started pid 2947(0x00000b83)
+[20201122-03:20:35] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20201122-03:20:35] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20201122-03:25:05] [ERROR] X error [BadWindow (invalid Window parameter)](3) opcodes 18/0 resource 0x2600048
+[20201122-03:25:05] [ERROR] X error [BadWindow (invalid Window parameter)](3) opcodes 25/0 resource 0x2600048
+[20201122-03:25:30] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20201122-03:25:35] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20201122-03:33:13] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20201122-03:33:13] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20201122-03:33:57] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20201122-03:33:57] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20201122-03:37:50] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20201122-03:37:50] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT

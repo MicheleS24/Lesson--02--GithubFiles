@@ -15,3 +15,18 @@ vi index.js
 git init
 git add
 yes
+ls -l
+vi index.js
+git init
+git add .
+git commit . -m " I am pushing all the files to my Github"
+git status
+git remote add origin git@github.com:MicheleS24/Lesson--02--GithubFiles.git
+git push -u origin master
+cd~/.ssh
+cd ~/.ssh
+ssh-keygen -t rsa -C"SterlinMichele@gmail.com"
+vi id_rsa.pub
+vi id_rsa.pub.pub
+vi id-rsa.pub.pub
+vi id_rsa.pub.pub

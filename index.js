@@ -1,4 +1,4 @@
-var texts = "I am your JavaScript Program";
+VAR TEXTS = I am your JavaScript Program";
 
 console.log(texts);
-``~
+
